@@ -10,6 +10,10 @@
 <a href="https://linkedin.com/in/elsa-puspa-silfia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsa-puspa-silfia" height="10" width="15" /></a>
 </p>
 
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.14.0-blue?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-v2.1.0-orange?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.3.0-green?style=flat&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) 
