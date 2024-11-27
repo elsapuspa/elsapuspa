@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">I'm Elsa</h1>
-<h3 align="center">I am currently pursuing a Master's degree in Mathematics in Science and Engineering. My research focuses on medical imaging, where I work with various imaging modalities and apply advanced deep learning techniques to analyze and interpret the data.</h3>
+<h3 align="left">I'm Elsa</h1>
+<h3 align="left">I am currently pursuing a Master's degree in Mathematics in Science and Engineering. My research focuses on medical imaging, where I work with various imaging modalities and apply advanced deep learning techniques to analyze and interpret the data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsapuspa&label=Profile%20views&color=0e75b6&style=flat" alt="elsapuspa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elsa-puspa-silfia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsa-puspa-silfia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elsa-puspa-silfia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsa-puspa-silfia" height="10" width="15" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
