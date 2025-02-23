@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h3 align="left">I'm Elsa</h1>
-<h4 align="left">I am currently pursuing a Master's degree in Mathematics in Science and Engineering. My research focuses on medical imaging, where I work with various imaging modalities and apply advanced deep learning techniques to analyze and interpret the data.</h4>
+<h4 align="left">I am currently pursuing a Master's degree in Mathematics in Science and Engineering. My research focuses on medical imaging and spatial transcriptomics.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsapuspa&label=Profile%20views&color=0e75b6&style=flat" alt="elsapuspa" /> </p>
 
